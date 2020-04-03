@@ -1,0 +1,10 @@
+x="engineering_mathematics"
+print(x[-11::2])
+print(x[2:10:3])
+print(x[15::4])
+print(x[3:12:2])
+print(x[-19:-9:5])
+print(x[2:-9:5])
+print(x[-18:18:2])
+print(x[-18::3])
+print(x[0:6:4])
