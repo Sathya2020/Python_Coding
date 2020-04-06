@@ -1,4 +1,4 @@
-a="python"
+'''a="python"
 b=a[0:1]+a[1].upper()+a[2:4]+a[4].upper()+a[5:]
 print(b)
 b=a[0].upper()+a[1:3]+a[3].upper()+a[4:5]+a[5].upper()
@@ -21,3 +21,9 @@ r="Fire"
 t=5
 y=str(t)
 print((r*t)+(y*len(r)))
+'''
+a=3
+b=5
+c=str(a)
+d=str(b)
+print(d*a+c*b)
